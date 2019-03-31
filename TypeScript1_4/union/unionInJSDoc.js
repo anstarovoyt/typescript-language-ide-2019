@@ -1,6 +1,7 @@
 /**
  * @type {number|string}
  */
-export var myUnion;
+let myUnion;
 
-myUnion //show completion
+
+myUnion

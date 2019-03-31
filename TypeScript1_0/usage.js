@@ -3,5 +3,5 @@
  * @type {SomeInterface}
  */
 export let myInterface = {
-
+    fi
 };
