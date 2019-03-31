@@ -1,4 +1,4 @@
-function f(parameter: string | number) {
+export function f(parameter: string | number) {
     if (typeof parameter === "number") {
         parameter // completion
     }
