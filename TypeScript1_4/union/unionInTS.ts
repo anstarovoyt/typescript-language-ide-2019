@@ -1,3 +1,3 @@
 export var myUnion: number | string;
 
-myUnion
+myUnion //show completion
